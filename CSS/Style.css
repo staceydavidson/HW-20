@@ -1,0 +1,42 @@
+.bg-purple {
+    background-color: blueviolet;
+}
+.heroimage{ 
+    background-image: url("../Images/Kpop\ Hero\ Image.png");
+    height: 525px;
+    background-size: cover;
+    background-position: center;
+}
+
+.trainee {
+    background-image: url("../Images/Trainee.png");
+    height: 600px;
+    width: 750px;
+    background-size: cover;
+    background-position: center;
+}
+
+.debut{
+    background-image: url("../Images/Debut.png");
+    height: 600px;
+    width: 750px;
+    background-size: cover;
+    background-position: center;
+}
+
+.music{
+    background-image: url("../Images/Music.png");
+    height: 600px;
+    width: 750px;
+    background-size: cover;
+    background-position: center;
+}
+
+.content{
+    background-image: url("../Images/Content.png");
+    height: 600px;
+    width: 750px;
+    background-size: cover;
+    background-position: center;
+}
+
